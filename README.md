@@ -89,6 +89,7 @@ In the side menu select HA
 Click add and select the VMs that you have created
 This allows the VM to migrate to another node if the node were to shutdown
 
+![image alt](https://github.com/regular-options/Proxmox-Documentation/blob/4467dbdc74fe0de17c1c92eb4dd0f00f836c2308/proxmox4git.png)
 
 
 Setting up Glusterfs for scalable containerized applications storage
