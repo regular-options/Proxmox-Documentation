@@ -218,3 +218,8 @@ https://github.com/sameersbn/docker-owncloud/blob/master/kubernetes/owncloud.yam
 https://doc.owncloud.com/server/next/admin_manual/installation/docker/
 https://my.simplercloud.com/index.php?/knowledgebase/article/154/how-to-configure-owncloud-to-use-the-data-disk-for-storage-/#:~:text=By%20default%2C%20OwnCloud%20will%20store,how%20you%20can%20do%20it. 
 https://www.google.com/search?q=owncloud+kubernetes&rlz=1C1CHBF_enCA986CA986&oq=owncloud+kube&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjINCAUQABiGAxiABBiKBTIGCAYQRRg9MgYIBxBFGDzSAQg0NzU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 
+
+
+
+
+Video presentation: https://youtu.be/xAX2M0gAXI0
